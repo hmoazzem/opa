@@ -582,8 +582,8 @@ integrations:
     labels:
       category: servicemesh
       layer: gateway
-    blogs:
-      - https://engineering.etermax.com/api-authorization-with-kubernetes-traefik-and-open-policy-agent-23647fc384a1
+    code:
+      - https://github.com/edgeflare/traefik-opa-proxy
 
   nodejs-express:
     title: NodeJS express
